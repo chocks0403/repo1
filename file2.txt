@@ -1,5 +1,9 @@
 file 2
 file 2nd line
 file2 4rd line
+<<<<<<< HEAD
 aaaa
 bbbb
+=======
+file3 today
+>>>>>>> origin/master
