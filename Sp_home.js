@@ -26,7 +26,11 @@ $(document).ready(function () {
 	var intervalId,
 		bodyOffsetHeightPrev = -1,
 		bodyOffsetWidthPrev = -1,
+<<<<<<< HEAD
 		menuLeftMargin = $('#brandLogo').offset().left + 10 ;
+=======
+		menuLeftMargin = $('#passportLogo').offset().left + 10 ;
+>>>>>>> origin/master
 
 	/*
 		Since the div#navDiv is absolutely positioned, this seems to be
@@ -320,4 +324,8 @@ $(document).ready(function () {
 	});
 
 
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> origin/master
