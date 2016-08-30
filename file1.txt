@@ -1,6 +1,3 @@
 test - asi-136
-<<<<<<< HEAD
 test - asi-136-2
-=======
 test - asi-137
->>>>>>> integration/M.2016.09
