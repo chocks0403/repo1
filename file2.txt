@@ -3,3 +3,4 @@ file 2nd line
 file2 4rd line
 file3 today
 line4
+line5
